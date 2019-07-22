@@ -12,4 +12,5 @@ public class Main {
     public static int addOne(int i){
         i = i + 1;
         return i;
+    }
 }
