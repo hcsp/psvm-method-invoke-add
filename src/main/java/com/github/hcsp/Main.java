@@ -6,9 +6,8 @@ public class Main {
         System.out.println("2+1=" + addOne(2));
         System.out.println("3+1=" + addOne(3));
     }
+
     // Create an addOne(int i) method here to increment an integer
-    // 在这里编写一个addOne(int i)方法，对整数执行加1i操作
-    public static int addOne(int i){
-        return  i = i + 1;
-    }
+    // 在这里编写一个addOne(int i)方法，对整数执行加1操作
+
 }
