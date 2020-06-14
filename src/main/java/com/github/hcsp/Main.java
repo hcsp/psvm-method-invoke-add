@@ -10,5 +10,6 @@ public class Main {
     // 在这里编写一个addOne(int i)方法，对整数执行加1操作
     public static int addOne(int x) {
         return x+1;
+
     }
 }
